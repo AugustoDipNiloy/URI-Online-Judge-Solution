@@ -4,6 +4,8 @@ Here, I've added some URI problems solution in C, C++ and Python.You can use the
 
 N:B:Before seeing the solution make sure that you tried enough
 
+If you find these codes helpful, don't forget to star the respository.
+
 I'm trying to add more Solutions.
 
 Contact with me
