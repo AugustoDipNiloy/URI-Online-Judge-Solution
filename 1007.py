@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+d=int(input())
+c=int(input())
+print("DIFERENCA = {:d}".format(a*b-c*d))
